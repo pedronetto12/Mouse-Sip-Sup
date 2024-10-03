@@ -14,8 +14,7 @@ Este projeto contém os arquivos necessários para a impressão e desenvolviment
 
 ## Requisitos Adicionais
 
-- **Biblioteca HX711**:  
-  Caso opte por não integrar manualmente a biblioteca ao código, você pode fazer o download da biblioteca HX711, que é necessária para leitura do sensor de peso. No código atual, a função mais relevante dessa biblioteca é a `get`, que é utilizada para capturar os dados do sensor.
+- **Biblioteca HX711**:
 
 
 
