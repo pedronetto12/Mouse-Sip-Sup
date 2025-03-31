@@ -19,7 +19,7 @@
 #define led8 16
 #define led9 14
 const int HX711_dout = 2; //mcu > HX711 dout pin, must be external interrupt capable!
-const int HX711_sck = 15; //mcu > HX711 sck pin .............LEMBRAR DE TROCAR PARA PINO 3 ANTES DE POSTAR NO GUITHUB
+const int HX711_sck = 15; //mcu > HX711 sck pin
 
 //HX711 constructor:
 HX711_ADC LoadCell(HX711_dout, HX711_sck);
