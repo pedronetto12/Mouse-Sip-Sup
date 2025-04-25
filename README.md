@@ -7,7 +7,9 @@
 Este repositório apresenta o desenvolvimento de um **mouse controlado por sopro e sucção (Sip-and-Puff)**, pensado para pessoas com comprometimento motor severo e controle de cabeça preservado. O dispositivo permite o controle do cursor e cliques por meio de ações com a boca — como soprar ou sugar — utilizando componentes acessíveis e de baixo custo.
 
 O projeto foi desenvolvido no ambiente universitário, com o objetivo de ser **gratuito, aberto e replicável**, fortalecendo o acesso democrático à tecnologia assistiva no Brasil.
-![Mouse Inclusivo Sip-and-Puff](https://github.com/pedronetto12/Mouse-Sip-Sup/blob/main/mouse.png).
+
+![Mouse Inclusivo Sip-and-Puff](https://github.com/pedronetto12/Mouse-Sip-Sup/blob/main/mouse.png)
+
 ## 🔧 Como Funciona
 
 - **Joystick** detecta o movimento da cabeça do usuário.
@@ -41,7 +43,7 @@ Este projeto foi apresentado no **Congresso Brasileiro de Tecnologia Assistiva (
 
 > **Grangeiro, Pedro Netto Gandolfi et al.** *Mouse inclusivo de hardware e software aberto controlado por sopro e sucção.* CBTA, 2023.
 
-## 🛠️Atualização
+## 🛠️ Atualização no Design do Bocal
 
 Realizamos uma **melhoria significativa no bocal** do dispositivo. Agora, o mouse conta com:
 
